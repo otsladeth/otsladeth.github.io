@@ -542,7 +542,8 @@ header li a:focus:after {
     margin: 0;
     width: 100%;
     height: 25vw;
-  }
+    background-image: url(https://im.wampi.ru/2024/01/13/prokat-gornykh-lyzh.jpg);
+}
 
   .email-us-inner {
     margin: 5% 0;
